@@ -1,1 +1,3 @@
-# pokkedoll.github.io...?
+# pokkedoll.github.io
+
+https://pokkedoll.github.io/infodoll
