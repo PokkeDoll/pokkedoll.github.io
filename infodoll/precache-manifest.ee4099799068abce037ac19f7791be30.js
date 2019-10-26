@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b13bb152ad9e6e64ea1734917f27e15b",
+    "revision": "46e1301faa7c76e3eb710e6b728495c8",
     "url": "/infodoll/index.html"
   },
   {
-    "revision": "31caa69c57e4f0bba8e2",
+    "revision": "26ffd26c0466f5d1925d",
     "url": "/infodoll/static/css/2.0624914a.chunk.css"
   },
   {
-    "revision": "31caa69c57e4f0bba8e2",
-    "url": "/infodoll/static/js/2.b712c335.chunk.js"
+    "revision": "26ffd26c0466f5d1925d",
+    "url": "/infodoll/static/js/2.d36f804b.chunk.js"
   },
   {
-    "revision": "f2f0d944c6d143b34228",
-    "url": "/infodoll/static/js/main.1c0f3090.chunk.js"
+    "revision": "41ba7e4f54dd13b59e85",
+    "url": "/infodoll/static/js/main.3476e14c.chunk.js"
   },
   {
     "revision": "5b784ed53fd0c4357037",
