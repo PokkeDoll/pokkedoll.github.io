@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c4169d2675ba4b59c15fb516ad06ddf0",
+    "revision": "7fdebf500da05363e7a6c18df0bafa30",
     "url": "/infodoll/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/infodoll/static/js/2.bc685e55.chunk.js"
   },
   {
-    "revision": "d5521dc26d41e50504e7",
-    "url": "/infodoll/static/js/main.2d355e8f.chunk.js"
+    "revision": "fafc566e4c7956497ab1",
+    "url": "/infodoll/static/js/main.98c9f45c.chunk.js"
   },
   {
     "revision": "5b784ed53fd0c4357037",
