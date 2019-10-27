@@ -22,6 +22,32 @@ hr {
     text-transform: uppercase;
 }
 
+@media screen and (min-width: 800px) {
+	.head h1 {
+		font-size: 55px;
+		font-weight: 700;
+		text-transform: uppercase;
+	}
+
+	.head h3 {
+		font-size: 22px;
+		text-transform: uppercase;
+	}
+}
+
+@media screen and (max-width: 799px) {
+    .head h1 {
+		font-size: 30px;
+		font-weight: 700;
+		text-transform: uppercase;
+	}
+
+	.head h3 {
+		font-size: 15px;
+		text-transform: uppercase;
+	}
+}
+
 .c {
     padding-top: 66px;
     padding-bottom: 66px;
