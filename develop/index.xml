@@ -12,6 +12,31 @@
     
     
     <item>
+      <title>WarsCore</title>
+      <link>https://pokkedoll.github.io/develop/warscore/</link>
+      <pubDate>Thu, 30 Jul 2020 08:13:56 +0900</pubDate>
+      
+      <guid>https://pokkedoll.github.io/develop/warscore/</guid>
+      <description>ソースコード
+ドキュメンテーション
+Wars(v4)で使用されている。現在開発中(v0.5)。
+Skript依存脱却と高速化が目的で、開発段階でサーバーのパフォーマンスが約10%上昇している。
+Scala 2.13.3を用いて開発されている。</description>
+    </item>
+    
+    <item>
+      <title>Wars</title>
+      <link>https://pokkedoll.github.io/develop/wars/</link>
+      <pubDate>Thu, 30 Jul 2020 08:13:52 +0900</pubDate>
+      
+      <guid>https://pokkedoll.github.io/develop/wars/</guid>
+      <description>ソースコード
+Wars(v3)で使用されていた。現在は開発終了(2.1.4-Final)。
+Skriptでは厳しいような処理を肩代わりするプラグイン。
+Scala 2.13.3を用いて開発されている。</description>
+    </item>
+    
+    <item>
       <title>UndeadReborn</title>
       <link>https://pokkedoll.github.io/develop/undeadreborn/</link>
       <pubDate>Wed, 22 Jul 2020 23:40:31 +0900</pubDate>
