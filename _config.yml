@@ -1,5 +1,6 @@
 # theme settings
 theme: "lone-wolf-theme"
+remote_theme : "manid2/lone-wolf-theme"
 bootswatch_theme: "cerulean" # cerulean, spacelab, united
 
 # site settings, follows the order used in jekyll-seo-tag plugin
